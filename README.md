@@ -1,5 +1,6 @@
 <!-- Background Image -->
-<img src="https://github.com/kinjalllsingh/DSA-portfolio/assets/your-image-id" alt="Background Image" style="width: 100%; height: 300px; object-fit: cover;">
+<img src="https://github.com/kinjalllsingh/DSA-portfolio/raw/main/Sep_01.png" alt="Background Image" style="width: 100%; height: 300px; object-fit: cover;">
+
 
 # 👋 Hello, I'm Kinjal Singh! <img src="https://path/to/your-photo.jpg" alt="Kinjal Singh's Photo" width="80" height="80" align="right">
 
